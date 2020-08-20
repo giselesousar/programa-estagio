@@ -1,0 +1,23 @@
+@media only screen and (max-width: 768px){
+    .title{
+        font-size: 20px;
+    }
+    .card-container-content{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px){
+    .card-container-content{
+        width: 80%;
+    }
+}
+.card-container-content{
+    min-height: 80vh;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.title{
+    text-align: center;
+}

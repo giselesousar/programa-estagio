@@ -1,0 +1,14 @@
+@media only screen and (min-width:1024px){
+    .card-container,.cardDrop-container{
+        width: 23rem;
+    }
+}
+@media only screen and (max-width:768px){
+    .card-container, .cardDrop-container{
+        width: 100%;
+    }
+}
+
+.card-container, .cardDrop-container{
+    margin: 10px;
+}
